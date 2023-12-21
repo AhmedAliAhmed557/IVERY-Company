@@ -215,6 +215,9 @@ nav ul li:hover {
         .buttons {
         flex-direction: column;
     }
+    .toggle-list {
+        left: 40%;
+    }
 }
 
 
