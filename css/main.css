@@ -27,7 +27,7 @@ header {
     justify-content: center;
     align-items: center;
     gap: 5px;
-    margin-right: 8px;
+    margin: 0 10px;
 }
 .buttons .nav-btn{
     cursor: pointer;
@@ -214,9 +214,6 @@ nav ul li:hover {
     }
         .buttons {
         flex-direction: column;
-    }
-    .toggle-list {
-        left: 41%;
     }
 }
 

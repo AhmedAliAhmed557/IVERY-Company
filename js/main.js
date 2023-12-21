@@ -26,5 +26,6 @@ toggleList.addEventListener("click" , () => {
 
 closeBtn.addEventListener("click", () => {
     ul.classList.add("hidden")
-    closeBtn.classList.add("hidden")
+    ul.classList.remove("visible")
+    closeBtn.classList.add("hide")
 })
